@@ -70,18 +70,18 @@ include CMakeFiles/inOneWeekend.dir/progress.make
 include CMakeFiles/inOneWeekend.dir/flags.make
 
 CMakeFiles/inOneWeekend.dir/src/main.cc.o: CMakeFiles/inOneWeekend.dir/flags.make
-CMakeFiles/inOneWeekend.dir/src/main.cc.o: src/main.cc
+CMakeFiles/inOneWeekend.dir/src/main.cc.o: /Users/jonathonoconnell/Documents/projects/ray-tracer/src/main.cc
 CMakeFiles/inOneWeekend.dir/src/main.cc.o: CMakeFiles/inOneWeekend.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jonathonoconnell/Documents/projects/ray-tracer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/inOneWeekend.dir/src/main.cc.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/inOneWeekend.dir/src/main.cc.o -MF CMakeFiles/inOneWeekend.dir/src/main.cc.o.d -o CMakeFiles/inOneWeekend.dir/src/main.cc.o -c /Users/jonathonoconnell/Documents/projects/ray-tracer/build/src/main.cc
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/inOneWeekend.dir/src/main.cc.o -MF CMakeFiles/inOneWeekend.dir/src/main.cc.o.d -o CMakeFiles/inOneWeekend.dir/src/main.cc.o -c /Users/jonathonoconnell/Documents/projects/ray-tracer/src/main.cc
 
 CMakeFiles/inOneWeekend.dir/src/main.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/inOneWeekend.dir/src/main.cc.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jonathonoconnell/Documents/projects/ray-tracer/build/src/main.cc > CMakeFiles/inOneWeekend.dir/src/main.cc.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jonathonoconnell/Documents/projects/ray-tracer/src/main.cc > CMakeFiles/inOneWeekend.dir/src/main.cc.i
 
 CMakeFiles/inOneWeekend.dir/src/main.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/inOneWeekend.dir/src/main.cc.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jonathonoconnell/Documents/projects/ray-tracer/build/src/main.cc -o CMakeFiles/inOneWeekend.dir/src/main.cc.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jonathonoconnell/Documents/projects/ray-tracer/src/main.cc -o CMakeFiles/inOneWeekend.dir/src/main.cc.s
 
 # Object files for target inOneWeekend
 inOneWeekend_OBJECTS = \

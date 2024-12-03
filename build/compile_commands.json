@@ -1,8 +1,8 @@
 [
 {
   "directory": "/Users/jonathonoconnell/Documents/projects/ray-tracer/build",
-  "command": "/usr/bin/clang++  -I/Users/jonathonoconnell/Documents/projects/ray-tracer/src -g -std=c++11 -arch arm64 -Wnon-virtual-dtor -Wreorder -Wsometimes-uninitialized -Wunused-variable -o CMakeFiles/inOneWeekend.dir/src/main.cc.o -c /Users/jonathonoconnell/Documents/projects/ray-tracer/build/src/main.cc",
-  "file": "/Users/jonathonoconnell/Documents/projects/ray-tracer/build/src/main.cc",
+  "command": "/usr/bin/clang++  -I/Users/jonathonoconnell/Documents/projects/ray-tracer/src -g -std=c++11 -arch arm64 -Wnon-virtual-dtor -Wreorder -Wsometimes-uninitialized -Wunused-variable -o CMakeFiles/inOneWeekend.dir/src/main.cc.o -c /Users/jonathonoconnell/Documents/projects/ray-tracer/src/main.cc",
+  "file": "/Users/jonathonoconnell/Documents/projects/ray-tracer/src/main.cc",
   "output": "CMakeFiles/inOneWeekend.dir/src/main.cc.o"
 }
 ]
