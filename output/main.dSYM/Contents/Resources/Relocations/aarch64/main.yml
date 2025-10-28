@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/jonathonoconnell/Documents/projects/ray-tracer/output/main'
-relocations:     []
-...
