@@ -5,8 +5,10 @@
 #include "hittable_list.h"
 #include "material.h"
 #include "sphere.h"
+#include "time.h"
 
 int main() {
+    clock_t start = clock();
     hittable_list world;
 
     auto ground_material = make_shared<lambertian>(color(0.5, 0.5, 0.5));
@@ -65,4 +67,8 @@ int main() {
     cam.focus_dist    = 10.0;
 
     cam.render(world);
+
+    clock_t end = clock();
+    std::cout << "Completed in " << (end - start) / 1000000.0 << " seconds.\n";
+
 }
