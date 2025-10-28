@@ -1,3 +1,0 @@
-/Users/jonathonoconnell/Documents/projects/ray-tracer/build/CMakeFiles/inOneWeekend.dir
-/Users/jonathonoconnell/Documents/projects/ray-tracer/build/CMakeFiles/edit_cache.dir
-/Users/jonathonoconnell/Documents/projects/ray-tracer/build/CMakeFiles/rebuild_cache.dir
