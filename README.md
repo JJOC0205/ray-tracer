@@ -7,7 +7,7 @@ Future changes may be made that include the latter books, or parallelization. Th
 ## How to Use
 
 1. Clone this repository with `git clone https://github.com/JJOC0205/ray-tracer.git`
-2. Enter directory with 'cd ray-tracer'
+2. Enter directory with `cd ray-tracer` from download location.
 3. Compile with `./run.sh`
 4. Run with with one of the following:  
     - `./a.out > render.ppm` for file formatted for .ppm file (Recommended). The .ppm file name is not required to be "render".
