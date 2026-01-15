@@ -1,1 +1,1 @@
-g++ src/main.cc
+nvcc src/main.cc -o add_cuda
